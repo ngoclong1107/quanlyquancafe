@@ -1,0 +1,610 @@
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.FormMenu.resources
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.FormDangNhap.resources
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe.licenses
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\bin\Debug\MetroFramework.Design.dll
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\bin\Debug\MetroFramework.dll
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\bin\Debug\MetroFramework.Fonts.dll
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormBanHang.resources
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhanVien.resources
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietHoaDon.resources
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDanhMuc.resources
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDoiThongTin.resources
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKho.resources
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormMon.resources
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhaCungCap.resources
+D:\Coding\Đồ án cơ sở\Final\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormThongKe.resources
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\bin\Debug\MetroFramework.Design.dll
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\bin\Debug\MetroFramework.dll
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.FormDangNhap.resources
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.FormMenu.resources
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormBanHang.resources
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietHoaDon.resources
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDanhMuc.resources
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDoiThongTin.resources
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKho.resources
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormMon.resources
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhaCungCap.resources
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhanVien.resources
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormThongKe.resources
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe.licenses
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\bin\Debug\EPPlus.dll
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\bin\Debug\EPPlus.xml
+C:\Users\itech\Desktop\QuanLyCafe\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\bin\Debug\EPPlus.dll
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\bin\Debug\MetroFramework.Design.dll
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\bin\Debug\MetroFramework.dll
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\bin\Debug\EPPlus.xml
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.FormDangNhap.resources
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.FormMenu.resources
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormBanHang.resources
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietHoaDon.resources
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDanhMuc.resources
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDoiThongTin.resources
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKho.resources
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormMon.resources
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhaCungCap.resources
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhanVien.resources
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormThongKe.resources
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe.licenses
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\itech\Desktop\Đò Án Cơ sở\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\bin\Debug\EPPlus.dll
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\bin\Debug\MetroFramework.Design.dll
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\bin\Debug\MetroFramework.dll
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\bin\Debug\EPPlus.xml
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.FormDangNhap.resources
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.FormMenu.resources
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormBanHang.resources
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietHoaDon.resources
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDanhMuc.resources
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDoiThongTin.resources
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKho.resources
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormMon.resources
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhaCungCap.resources
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhanVien.resources
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormThongKe.resources
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe.licenses
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\itech\Downloads\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.dll
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Design.dll
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.dll
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.xml
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.FormDangNhap.resources
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.FormMenu.resources
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormBanHang.resources
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietHoaDon.resources
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDanhMuc.resources
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDoiThongTin.resources
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKho.resources
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormMon.resources
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhaCungCap.resources
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhanVien.resources
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormThongKe.resources
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe.licenses
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\itech\Desktop\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.dll
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.Interfaces.dll
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.System.Drawing.dll
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Design.dll
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.dll
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Fonts.dll
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.xml
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.FormDangNhap.resources
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.FormMenu.resources
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormBanHang.resources
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietHoaDon.resources
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDanhMuc.resources
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDoiThongTin.resources
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKho.resources
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormMon.resources
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhaCungCap.resources
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhanVien.resources
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormThongKe.resources
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe.licenses
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\Coding\Đồ án cơ sở\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.dll
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.Interfaces.dll
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.System.Drawing.dll
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Design.dll
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.dll
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Fonts.dll
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.xml
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.FormDangNhap.resources
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.FormMenu.resources
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormBanHang.resources
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietHoaDon.resources
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDanhMuc.resources
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDoiThongTin.resources
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKho.resources
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormMon.resources
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhaCungCap.resources
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhanVien.resources
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormThongKe.resources
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe.licenses
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\Coding\Đồ án cơ sở\final2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.ThongBao.UserAlert.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.dll
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Design.dll
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.dll
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.xml
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.FormDangNhap.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.FormMenu.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormBanHang.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietHoaDon.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDanhMuc.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDoiThongTin.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKho.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormMon.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhaCungCap.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhanVien.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormThongKe.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FromInfoUserStaff.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.ThongBao.UserAlert.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe.licenses
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Coking_old\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.dll
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.Interfaces.dll
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.System.Drawing.dll
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Design.dll
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.dll
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Fonts.dll
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.xml
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.FormDangNhap.resources
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.FormMenu.resources
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormBanHang.resources
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietHoaDon.resources
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDanhMuc.resources
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDoiThongTin.resources
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKho.resources
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormMon.resources
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhaCungCap.resources
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhanVien.resources
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormThongKe.resources
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FromInfoUserStaff.resources
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.ThongBao.UserAlert.resources
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe.licenses
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\Coding\cook\cook_lan2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.FormChinh.FormUser.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.FormDangNhap.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.FormMenu.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.FormChinh.FormUser.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormBanHang.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietHoaDon.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDanhMuc.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDoiThongTin.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKho.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormMon.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhaCungCap.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhanVien.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormThongKe.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FromInfoUserStaff.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.ThongBao.UserAlert.resources
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe.licenses
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.dll
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Design.dll
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.dll
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.xml
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\huy13\OneDrive\Desktop\DoAnCoSo\TESLT\Cook_1_6\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.Interfaces.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.System.Drawing.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Design.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Fonts.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.xml
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.FormDangNhap.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.FormMenu.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.FormChinh.FormUser.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormBanHang.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietHoaDon.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDanhMuc.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDoiThongTin.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKho.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormMon.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhaCungCap.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhanVien.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormThongKe.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FromInfoUserStaff.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.ThongBao.UserAlert.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe.licenses
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKhuyenMai.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EnvDTE.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\stdole.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormReport.resources
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Coding\Cook lan 2\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietKM.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Design.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EnvDTE.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\stdole.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.MSXML.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.xml
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.FormDangNhap.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.FormMenu.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.FormChinh.FormUser.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormBanHang.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietHoaDon.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietKM.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDanhMuc.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDoiThongTin.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKho.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKhuyenMai.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormMon.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhaCungCap.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhanVien.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormReport.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormThongKe.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FromInfoUserStaff.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.ThongBao.UserAlert.resources
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe.licenses
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\huy13\OneDrive\Desktop\DNCS\21\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.Interfaces.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.System.Drawing.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Design.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\MetroFramework.Fonts.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EnvDTE.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\stdole.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.MSXML.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\EPPlus.xml
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.FormDangNhap.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.FormMenu.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.FormChinh.FormUser.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormBanHang.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietHoaDon.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormChiTietKM.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDanhMuc.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormDoiThongTin.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKho.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormKhuyenMai.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormMon.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhaCungCap.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormNhanVien.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormReport.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FormThongKe.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Forms.FromInfoUserStaff.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.ThongBao.UserAlert.resources
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe.licenses
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\Coding\Đồ án cơ sở\Cook phát cuối\New folder\QuanLyCafe-fix\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
